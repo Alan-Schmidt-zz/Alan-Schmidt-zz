@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! My name is Alan Schmidt
+
+## I'm currently a Computer Science major at Wright State University
+
+## I've worked on creating a basic machine learning program to gather data on an extremely large dataset and I'm currently working on a large group project relating to encryption, transmission, and displaying a specific set of data.
 
 <!--
 **Alan-Schmidt-zz/Alan-Schmidt-zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
